@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C85C5B61304E6A92006C657A /* WhisperWood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WhisperWood.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C85C5B61304E6A92006C657A /* WhisperWood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = WhisperWood.app; path = "/Users/wilson/Documents/Apple Academy/WhisperWood/build/Debug-iphoneos/WhisperWood.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				C85C5B63304E6A92006C657A /* WhisperWood */,
-				C85C5B62304E6A92006C657A /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		C85C5B62304E6A92006C657A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				C85C5B61304E6A92006C657A /* WhisperWood.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = C85C5B58304E6A92006C657A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = C85C5B62304E6A92006C657A /* Products */;
+			productRefGroup = C85C5B58304E6A92006C657A;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
